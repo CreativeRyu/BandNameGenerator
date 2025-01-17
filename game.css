@@ -112,6 +112,10 @@ canvas {
         border: solid #008060 15px;
         max-width: 100%; /* Reduzierte Breite */
     }
+    .canvas-container:hover {
+        background-color: #00936f;
+        border: solid #00936f 15px;
+    }
 
     canvas {
         max-width: 90%; /* Flexibles Canvas */
